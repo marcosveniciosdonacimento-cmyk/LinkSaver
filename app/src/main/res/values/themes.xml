@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.LinkSaver" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryVariant">#1565C0</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#009688</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">#1565C0</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>
